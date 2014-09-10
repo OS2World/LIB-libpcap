@@ -1,0 +1,29 @@
+libpcap 0.4 ported to OS/2
+
+original archive:
+libpcap@ee.lbl.gov
+ftp://ftp.ee.lbl.gov/libpcap.tar.Z
+
+What is it?
+
+libpcap is a system=independent interface for user-level packet capture and
+network monitoring
+
+Requirements
+
+ * OS/2 Warp (tested with 3.0 and 4.0, various fixpack levels
+ * TCP/IP (tested with 4.0 and 4.1)
+ * HPFS (or long filename support, at least for source files)
+ * IpSpy, look for ipspy140.zip on leo (www.leo.or
+   hobbes (ftp-os2.nmsu.edu)
+
+Improvements over previous ports
+
+ * dumping and reading to capture files fixed
+ * now supports capturing multiple interfaces at the same time
+
+Ported by:
+Peter Meerwald
+pmeerw@bgnet.bgsu
+seawood@very.priv
+

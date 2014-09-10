@@ -5,7 +5,7 @@ libpcap is a system=independent interface for user-level packet capture and netw
 
 LICENSE
 ===============
-* Not Specified
+* BSD alike
 
 COMPILE TOOLS
 ===============
